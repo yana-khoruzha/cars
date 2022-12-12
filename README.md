@@ -1,3 +1,3 @@
 # Cars
 
-https://yandapanda19.github.io/Cars/
+https://ephemeral-entremet-53521b.netlify.app/
